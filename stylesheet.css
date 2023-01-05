@@ -1,0 +1,48 @@
+.para1{
+    padding-left: 4vw;
+    font-size:20px;
+}
+.para2{
+  padding-top: 2vh;
+  font-size: 30px;
+  
+
+}
+    #button {
+        display: inline-block;
+        padding: 15px 25px;
+        font-size: 24px;
+        cursor: pointer;
+        text-align: center;
+        text-decoration: none;
+        outline: none;
+        color: #fff;
+        background-color: gray;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;
+        margin-left: 3vw;
+      }    
+      #button:active {
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+
+     #submit{   
+    border-radius: 5%;
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+    width: 10vw;
+    
+     }
+     .li{
+      font-size: 3vh;
+     }
+   .img{
+    height: 60vh;
+    width: 80vw;
+    margin-left: 8vw;
+    margin-top: 2vh;
+   }
+     
